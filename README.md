@@ -18,7 +18,7 @@ The "Contact Me" section contains 3 active links to contact me via email, connec
 
 The following image shows the web application's appearance:
 
-![portfolio mockup](./Assets/images/mockup.jpg)
+![portfolio mockup](./assets/images/mockup.jpg)
 
 ## License
 
